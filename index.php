@@ -9,10 +9,17 @@
 <body>
     <h2>Database Siswa:</h2>
     <table border='1'>
-        <tr>No</tr>
-        <tr>Nama</tr>
-        <tr>Kelas</tr>
-    </table>    
+        <tr>    
+            <th>No</th>
+            <th>Nama</th>
+            <th>Kelas</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Ridho</td>
+            <td>XI RPL2</td>
+        </tr>
+        </table>    
 
 
 </body>
