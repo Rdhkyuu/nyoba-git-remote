@@ -9,7 +9,9 @@
 <body>
     <h2>Database Siswa:</h2>
     <table border='1'>
-        
+        <tr>No</tr>
+        <tr>Nama</tr>
+        <tr>Kelas</tr>
     </table>    
 
 
